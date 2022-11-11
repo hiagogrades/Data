@@ -1,0 +1,16 @@
+C:\Dev\ComparingDate\bin\Debug\net5.0\ComparingDate.exe
+C:\Dev\ComparingDate\bin\Debug\net5.0\ComparingDate.deps.json
+C:\Dev\ComparingDate\bin\Debug\net5.0\ComparingDate.runtimeconfig.json
+C:\Dev\ComparingDate\bin\Debug\net5.0\ComparingDate.runtimeconfig.dev.json
+C:\Dev\ComparingDate\bin\Debug\net5.0\ComparingDate.dll
+C:\Dev\ComparingDate\bin\Debug\net5.0\ComparingDate.pdb
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.csproj.AssemblyReference.cache
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.AssemblyInfoInputs.cache
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.AssemblyInfo.cs
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.csproj.CoreCompileInputs.cache
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.dll
+C:\Dev\ComparingDate\obj\Debug\net5.0\refint\ComparingDate.dll
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.pdb
+C:\Dev\ComparingDate\obj\Debug\net5.0\ComparingDate.genruntimeconfig.cache
+C:\Dev\ComparingDate\obj\Debug\net5.0\ref\ComparingDate.dll
