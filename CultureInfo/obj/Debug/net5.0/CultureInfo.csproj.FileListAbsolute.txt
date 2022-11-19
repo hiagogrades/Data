@@ -1,0 +1,16 @@
+C:\Dev\Date\CultureInfo\bin\Debug\net5.0\CultureInfo.exe
+C:\Dev\Date\CultureInfo\bin\Debug\net5.0\CultureInfo.deps.json
+C:\Dev\Date\CultureInfo\bin\Debug\net5.0\CultureInfo.runtimeconfig.json
+C:\Dev\Date\CultureInfo\bin\Debug\net5.0\CultureInfo.runtimeconfig.dev.json
+C:\Dev\Date\CultureInfo\bin\Debug\net5.0\CultureInfo.dll
+C:\Dev\Date\CultureInfo\bin\Debug\net5.0\CultureInfo.pdb
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.csproj.AssemblyReference.cache
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.AssemblyInfoInputs.cache
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.AssemblyInfo.cs
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.csproj.CoreCompileInputs.cache
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.dll
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\refint\CultureInfo.dll
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.pdb
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\CultureInfo.genruntimeconfig.cache
+C:\Dev\Date\CultureInfo\obj\Debug\net5.0\ref\CultureInfo.dll
