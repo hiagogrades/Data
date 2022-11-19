@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace CultureInfo
 {
@@ -6,14 +7,11 @@ namespace CultureInfo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine($"DateTime final: {DateTime.Now}");
-            Console.WriteLine($"DateTime final: {DateTime.Now}");
-            Console.WriteLine($"DateTime final: {DateTime.Now}");
-            Console.WriteLine($"DateTime final: {DateTime.Now}");
-            Console.WriteLine($"DateTime final: {DateTime.Now}");
-            Console.WriteLine($"DateTime final: {DateTime.Now}");
+            Console.Clear();
 
+            var pt = new CultureInfo("pt-BR");
+
+            Console.WriteLine(DateTime.Now);
         }
     }
 }
