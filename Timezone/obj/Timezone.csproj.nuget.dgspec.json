@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\date\\Timezone\\Timezone.csproj": {}
+    "C:\\Dev\\Date\\Timezone\\Timezone.csproj": {}
   },
   "projects": {
-    "C:\\dev\\date\\Timezone\\Timezone.csproj": {
+    "C:\\Dev\\Date\\Timezone\\Timezone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\date\\Timezone\\Timezone.csproj",
+        "projectUniqueName": "C:\\Dev\\Date\\Timezone\\Timezone.csproj",
         "projectName": "Timezone",
-        "projectPath": "C:\\dev\\date\\Timezone\\Timezone.csproj",
+        "projectPath": "C:\\Dev\\Date\\Timezone\\Timezone.csproj",
         "packagesPath": "C:\\Users\\hiago.werneck\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\date\\Timezone\\obj\\",
+        "outputPath": "C:\\Dev\\Date\\Timezone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

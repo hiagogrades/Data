@@ -1,0 +1,16 @@
+C:\Dev\Date\Timezone\bin\Debug\net5.0\Timezone.exe
+C:\Dev\Date\Timezone\bin\Debug\net5.0\Timezone.deps.json
+C:\Dev\Date\Timezone\bin\Debug\net5.0\Timezone.runtimeconfig.json
+C:\Dev\Date\Timezone\bin\Debug\net5.0\Timezone.runtimeconfig.dev.json
+C:\Dev\Date\Timezone\bin\Debug\net5.0\Timezone.dll
+C:\Dev\Date\Timezone\bin\Debug\net5.0\Timezone.pdb
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.csproj.AssemblyReference.cache
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.AssemblyInfoInputs.cache
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.AssemblyInfo.cs
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.csproj.CoreCompileInputs.cache
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.dll
+C:\Dev\Date\Timezone\obj\Debug\net5.0\refint\Timezone.dll
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.pdb
+C:\Dev\Date\Timezone\obj\Debug\net5.0\Timezone.genruntimeconfig.cache
+C:\Dev\Date\Timezone\obj\Debug\net5.0\ref\Timezone.dll
