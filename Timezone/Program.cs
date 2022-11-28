@@ -21,7 +21,7 @@ namespace Timezone
             Console.WriteLine($"Horário atual sem timezone: {utcdate}");
 
             var timeZoneAlasca = TimeZoneInfo.FindSystemTimeZoneById("Alaskan Standard Time");
-            Console.WriteLine($"Time zone Alaskan: {timezoneAustralia}");
+            Console.WriteLine($"Time zone Alaskan: {timeZoneAlasca}");
 
             //Convertendo para o time zone da Australia
             var horaAlasca = TimeZoneInfo.ConvertTimeFromUtc(utcdate, timeZoneAlasca);
