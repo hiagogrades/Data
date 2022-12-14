@@ -20,7 +20,7 @@ namespace Timezone
             Console.WriteLine($"Horário atual com timezone da máquina local: {utcdate.ToLocalTime()}");
             Console.WriteLine($"Horário atual sem timezone: {utcdate}");
 
-            var timeZoneAlasca = TimeZoneInfo.FindSystemTimeZoneById("Alaskan Standard Time");
+            var timeZoneAlasca = TimeZoneInfo.FindSystemTimeZoneById("Ilhas Faroe");
             Console.WriteLine($"Time zone Alaskan: {timeZoneAlasca}");
 
             //Convertendo para o time zone da Australia
