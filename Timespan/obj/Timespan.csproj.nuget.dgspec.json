@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\date\\Timespan\\Timespan.csproj": {}
+    "C:\\Dev\\Date\\Timespan\\Timespan.csproj": {}
   },
   "projects": {
-    "C:\\dev\\date\\Timespan\\Timespan.csproj": {
+    "C:\\Dev\\Date\\Timespan\\Timespan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\date\\Timespan\\Timespan.csproj",
+        "projectUniqueName": "C:\\Dev\\Date\\Timespan\\Timespan.csproj",
         "projectName": "Timespan",
-        "projectPath": "C:\\dev\\date\\Timespan\\Timespan.csproj",
+        "projectPath": "C:\\Dev\\Date\\Timespan\\Timespan.csproj",
         "packagesPath": "C:\\Users\\hiago.werneck\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\date\\Timespan\\obj\\",
+        "outputPath": "C:\\Dev\\Date\\Timespan\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

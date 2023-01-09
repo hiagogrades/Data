@@ -6,7 +6,13 @@ namespace Timespan
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Clear();
+
+            //Sempre que definido um novo objeto TimeSpan, o mesmo será zerado.
+            var timeSpan = new TimeSpan();
+            Console.WriteLine(timeSpan.ToString());
+
+            
         }
     }
 }
